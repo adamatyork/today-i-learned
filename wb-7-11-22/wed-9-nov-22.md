@@ -33,7 +33,7 @@ struct MyType {
 
 ## Ref. Links. Etc.
 
-[Swift Documentation]("https://docs.swift.org/swift-book/ReferenceManual/Declarations.html#//apple_ref/doc/uid/TP40014097-CH34-XID_543") <br>
-[Hacking With Swift Article]("https://www.hackingwithswift.com/example-code/language/self-vs-self-whats-the-difference") <br>
-[Stack Overflow Question]("https://stackoverflow.com/questions/27863810/distinction-in-swift-between-uppercase-self-and-lowercase-self")
+[Swift Documentation](https://docs.swift.org/swift-book/ReferenceManual/Declarations.html#//apple_ref/doc/uid/TP40014097-CH34-XID_543) <br>
+[Hacking With Swift Article](https://www.hackingwithswift.com/example-code/language/self-vs-self-whats-the-difference) <br>
+[Stack Overflow Question](https://stackoverflow.com/questions/27863810/distinction-in-swift-between-uppercase-self-and-lowercase-self)
 
