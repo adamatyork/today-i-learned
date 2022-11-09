@@ -1,5 +1,6 @@
 # Wednesday 9th November 2022
-## Today I Learned
+
+**Today I Learned**
 <br>
 
 `Self` in Swift refers to the `Type` itself. <br>
