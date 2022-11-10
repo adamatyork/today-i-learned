@@ -21,6 +21,8 @@ To isolate the audo stream of a video file:
 ffmpeg -i mymovie.mov -vn audioonly.mp3
 ```
 
+---
+
 `ffprobe` can be used to output info on the file.
 
 ```
